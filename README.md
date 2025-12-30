@@ -1,2 +1,2 @@
-# flash-market-api
-flash-market-api
+FlashMarket; son kullanıcıya Getir benzeri raf odaklı bir alışveriş deneyimi sunarken, arka planda merkezi depo yerine Yemeksepeti iş modelini kullanarak yerel esnafın stoklarını yöneten çok satıcılı (multi-vendor) bir pazaryeri platformudur.
+FlashMarket is a multi-vendor Q-commerce platform that combines Getir's shelf-based user experience with a Yemeksepeti-style marketplace model, connecting local merchants' existing inventories to customers instead of relying on central warehouses.
